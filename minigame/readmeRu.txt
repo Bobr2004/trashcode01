@@ -31,5 +31,5 @@ pip install pygame --pre
 Используя команду cd перейдите в папку с игрой (minigame)
 Mac/Linux (терминал) - python3 startgame.py
 
-Windows (cmd) - python startgame.py или python3 startgame.py (я не ебу)
+Windows (cmd) - python startgame.py или python3 startgame.py
 
