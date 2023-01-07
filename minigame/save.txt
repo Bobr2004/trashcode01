@@ -1,6 +1,1 @@
-dimus 1020 1062.0 3 13 hummers demonmace+
-13
-13
-11
-0
-50
+no save
